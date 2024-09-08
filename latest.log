@@ -1,0 +1,141 @@
+[I] 2024/09/08 13:19:21.504+0300 [              engine] loading settings
+[I] 2024/09/08 13:19:21.584+0300 [              window] max texture size is 16384
+[I] 2024/09/08 13:19:21.585+0300 [              window] GL Vendor: Intel
+[I] 2024/09/08 13:19:21.585+0300 [              window] GL Renderer: Mesa Intel(R) Graphics (RKL GT1)
+[I] 2024/09/08 13:19:21.585+0300 [              window] GLFW: 3.3.2 X11 GLX EGL OSMesa clock_gettime evdev shared
+[I] 2024/09/08 13:19:21.586+0300 [              engine] loading controls
+[I] 2024/09/08 13:19:21.635+0300 [            al-audio] initialized
+[I] 2024/09/08 13:19:21.635+0300 [            al-audio] max mono sources: 255
+[I] 2024/09/08 13:19:21.635+0300 [            al-audio] devices:
+[I] 2024/09/08 13:19:21.635+0300 [            al-audio]   OpenAL Soft
+[I] 2024/09/08 13:19:21.637+0300 [              locale] locales [fi_FI (Suomi)] [uk_UA (Українська)] [pl_PL (Polski)] [ru_RU (Русский)] [en_US (English)] [de_DE (Deutsch)] [be_BY (Беларуская)] added
+[I] 2024/09/08 13:19:21.637+0300 [           lua-state] Lua 5.1
+[I] 2024/09/08 13:19:21.637+0300 [           lua-state] LuaJIT 2.1.0-beta3
+[I] 2024/09/08 13:19:21.638+0300 [              engine] starting menu screen
+[I] 2024/09/08 13:19:21.639+0300 [              locale] locales [fi_FI (Suomi)] [uk_UA (Українська)] [pl_PL (Polski)] [ru_RU (Русский)] [en_US (English)] [de_DE (Deutsch)] [be_BY (Беларуская)] added
+[I] 2024/09/08 13:19:21.639+0300 [              engine] loading assets
+[I] 2024/09/08 13:19:21.639+0300 [       assets-loader] loading textures/blocks as blocks
+[I] 2024/09/08 13:19:21.641+0300 [       assets-loader] loading textures/items as items
+[I] 2024/09/08 13:19:21.643+0300 [       assets-loader] loading fonts/font as normal
+[I] 2024/09/08 13:19:21.648+0300 [       assets-loader] loading shaders/ui as ui
+[I] 2024/09/08 13:19:21.653+0300 [       assets-loader] loading shaders/main as main
+[I] 2024/09/08 13:19:21.654+0300 [       assets-loader] loading shaders/lines as lines
+[I] 2024/09/08 13:19:21.654+0300 [       assets-loader] loading textures/gui/menubg as gui/menubg
+[I] 2024/09/08 13:19:21.654+0300 [       assets-loader] loading textures/gui/delete_icon as gui/delete_icon
+[I] 2024/09/08 13:19:21.654+0300 [       assets-loader] loading textures/gui/no_icon as gui/no_icon
+[I] 2024/09/08 13:19:21.655+0300 [       assets-loader] loading textures/gui/no_world_icon as gui/no_world_icon
+[I] 2024/09/08 13:19:21.655+0300 [       assets-loader] loading textures/gui/warning as gui/warning
+[I] 2024/09/08 13:19:21.655+0300 [       assets-loader] loading textures/gui/error as gui/error
+[I] 2024/09/08 13:19:21.655+0300 [       assets-loader] loading textures/gui/cross as gui/cross
+[I] 2024/09/08 13:19:21.655+0300 [       assets-loader] loading textures/gui/refresh as gui/refresh
+[I] 2024/09/08 13:19:21.656+0300 [           scripting] script (layout) /tmp/.mount_voxeleuoD3h6/usr/share/VoxelEngine/res/layouts/pages/main.xml.lua
+[I] 2024/09/08 13:19:21.658+0300 [              engine] engine started
+[I] 2024/09/08 13:19:24.250+0300 [      engine-control] deleting /home/minuta18/.voxeng/worlds/dafsfd
+[I] 2024/09/08 13:19:24.253+0300 [           scripting] script (layout) /tmp/.mount_voxeleuoD3h6/usr/share/VoxelEngine/res/layouts/pages/main.xml.lua
+[I] 2024/09/08 13:19:26.612+0300 [           scripting] script (layout) /tmp/.mount_voxeleuoD3h6/usr/share/VoxelEngine/res/layouts/pages/new_world.xml.lua
+[I] 2024/09/08 13:19:28.879+0300 [           scripting] script (layout) /tmp/.mount_voxeleuoD3h6/usr/share/VoxelEngine/res/layouts/pages/content.xml.lua
+[I] 2024/09/08 13:19:30.000+0300 [           scripting] script (layout) /tmp/.mount_voxeleuoD3h6/usr/share/VoxelEngine/res/layouts/pages/new_world.xml.lua
+[I] 2024/09/08 13:19:32.147+0300 [      content-loader] loading pack [base]
+[I] 2024/09/08 13:19:32.148+0300 [           scripting] script (block) /tmp/.mount_voxeleuoD3h6/usr/share/VoxelEngine/res/content/base/scripts/grass_block.lua
+[I] 2024/09/08 13:19:32.148+0300 [           scripting] script (block) /tmp/.mount_voxeleuoD3h6/usr/share/VoxelEngine/res/content/base/scripts/sand.lua
+[I] 2024/09/08 13:19:32.149+0300 [           scripting] script (block) /tmp/.mount_voxeleuoD3h6/usr/share/VoxelEngine/res/content/base/scripts/wooden_door.lua
+[I] 2024/09/08 13:19:32.149+0300 [           scripting] script (item) /tmp/.mount_voxeleuoD3h6/usr/share/VoxelEngine/res/content/base/scripts/bazalt_breaker.lua
+[I] 2024/09/08 13:19:32.149+0300 [           scripting] script (component) /tmp/.mount_voxeleuoD3h6/usr/share/VoxelEngine/res/content/base/scripts/components/drop.lua
+[I] 2024/09/08 13:19:32.149+0300 [           scripting] script (component) /tmp/.mount_voxeleuoD3h6/usr/share/VoxelEngine/res/content/base/scripts/components/falling_block.lua
+[I] 2024/09/08 13:19:32.149+0300 [           scripting] script (component) /tmp/.mount_voxeleuoD3h6/usr/share/VoxelEngine/res/content/base/scripts/components/player_animator.lua
+[I] 2024/09/08 13:19:32.150+0300 [      content-loader] loading pack [customworldgen]
+[I] 2024/09/08 13:19:32.150+0300 [           scripting] script (world) /home/minuta18/.voxeng/content/custom_worldgen/scripts/world.lua
+[I] 2024/09/08 13:19:32.150+0300 [              locale] locales [fi_FI (Suomi)] [uk_UA (Українська)] [pl_PL (Polski)] [ru_RU (Русский)] [en_US (English)] [de_DE (Deutsch)] [be_BY (Беларуская)] added
+[I] 2024/09/08 13:19:32.150+0300 [              engine] loading assets
+[I] 2024/09/08 13:19:32.150+0300 [       assets-loader] loading textures/blocks as blocks
+[I] 2024/09/08 13:19:32.155+0300 [       assets-loader] loading textures/items as items
+[I] 2024/09/08 13:19:32.155+0300 [       assets-loader] loading fonts/font as normal
+[I] 2024/09/08 13:19:32.159+0300 [       assets-loader] loading shaders/ui as ui
+[I] 2024/09/08 13:19:32.159+0300 [       assets-loader] loading shaders/main as main
+[I] 2024/09/08 13:19:32.159+0300 [       assets-loader] loading shaders/lines as lines
+[I] 2024/09/08 13:19:32.159+0300 [       assets-loader] loading textures/gui/menubg as gui/menubg
+[I] 2024/09/08 13:19:32.160+0300 [       assets-loader] loading textures/gui/delete_icon as gui/delete_icon
+[I] 2024/09/08 13:19:32.160+0300 [       assets-loader] loading textures/gui/no_icon as gui/no_icon
+[I] 2024/09/08 13:19:32.160+0300 [       assets-loader] loading textures/gui/no_world_icon as gui/no_world_icon
+[I] 2024/09/08 13:19:32.160+0300 [       assets-loader] loading textures/gui/warning as gui/warning
+[I] 2024/09/08 13:19:32.160+0300 [       assets-loader] loading textures/gui/error as gui/error
+[I] 2024/09/08 13:19:32.160+0300 [       assets-loader] loading textures/gui/cross as gui/cross
+[I] 2024/09/08 13:19:32.160+0300 [       assets-loader] loading textures/gui/refresh as gui/refresh
+[I] 2024/09/08 13:19:32.161+0300 [       assets-loader] loading shaders/ui3d as ui3d
+[I] 2024/09/08 13:19:32.161+0300 [       assets-loader] loading shaders/entity as entity
+[I] 2024/09/08 13:19:32.161+0300 [       assets-loader] loading shaders/screen as screen
+[I] 2024/09/08 13:19:32.162+0300 [       assets-loader] loading shaders/background as background
+[I] 2024/09/08 13:19:32.162+0300 [       assets-loader] loading shaders/skybox_gen as skybox_gen
+[I] 2024/09/08 13:19:32.162+0300 [       assets-loader] loading textures/misc/moon as misc/moon
+[I] 2024/09/08 13:19:32.165+0300 [       assets-loader] loading textures/misc/sun as misc/sun
+[I] 2024/09/08 13:19:32.167+0300 [       assets-loader] loading textures/gui/crosshair as gui/crosshair
+[I] 2024/09/08 13:19:32.167+0300 [       assets-loader] loading sounds/blocks/door_open as blocks/door_open
+[I] 2024/09/08 13:19:32.169+0300 [       assets-loader] loading sounds/blocks/door_close as blocks/door_close
+[I] 2024/09/08 13:19:32.169+0300 [       assets-loader] loading sounds/events/pickup as events/pickup
+[I] 2024/09/08 13:19:32.170+0300 [       assets-loader] loading models/drop-item as drop-item
+[I] 2024/09/08 13:19:32.171+0300 [       assets-loader] loading sounds/steps/wood as steps/wood
+[I] 2024/09/08 13:19:32.173+0300 [       assets-loader] loading sounds/blocks/wood_place as blocks/wood_place
+[I] 2024/09/08 13:19:32.174+0300 [       assets-loader] loading sounds/blocks/wood_break as blocks/wood_break
+[I] 2024/09/08 13:19:32.175+0300 [       assets-loader] loading sounds/steps/stone as steps/stone
+[I] 2024/09/08 13:19:32.178+0300 [       assets-loader] loading sounds/blocks/stone_place as blocks/stone_place
+[I] 2024/09/08 13:19:32.180+0300 [       assets-loader] loading sounds/blocks/stone_break as blocks/stone_break
+[I] 2024/09/08 13:19:32.180+0300 [       assets-loader] loading sounds/steps/sand as steps/sand
+[I] 2024/09/08 13:19:32.183+0300 [       assets-loader] loading sounds/blocks/ground_place as blocks/ground_place
+[I] 2024/09/08 13:19:32.186+0300 [       assets-loader] loading sounds/blocks/ground_break as blocks/ground_break
+[I] 2024/09/08 13:19:32.187+0300 [       assets-loader] loading sounds/steps/ground as steps/ground
+[I] 2024/09/08 13:19:32.191+0300 [       assets-loader] loading sounds/blocks/ground_place as blocks/ground_place
+[I] 2024/09/08 13:19:32.193+0300 [       assets-loader] loading sounds/blocks/ground_break as blocks/ground_break
+[I] 2024/09/08 13:19:32.194+0300 [       assets-loader] loading sounds/steps/grass as steps/grass
+[I] 2024/09/08 13:19:32.197+0300 [       assets-loader] loading sounds/blocks/ground_place as blocks/ground_place
+[I] 2024/09/08 13:19:32.200+0300 [       assets-loader] loading sounds/blocks/ground_break as blocks/ground_break
+[I] 2024/09/08 13:19:32.201+0300 [       assets-loader] loading sounds/steps/grass as steps/grass
+[I] 2024/09/08 13:19:32.204+0300 [       assets-loader] loading sounds/steps/grass as steps/grass
+[I] 2024/09/08 13:19:32.206+0300 [       assets-loader] loading sounds/steps/grass as steps/grass
+[I] 2024/09/08 13:19:32.208+0300 [       assets-loader] loading sounds/steps/metal as steps/metal
+[I] 2024/09/08 13:19:32.214+0300 [       assets-loader] loading sounds/blocks/metal_place as blocks/metal_place
+[I] 2024/09/08 13:19:32.217+0300 [       assets-loader] loading sounds/blocks/metal_break as blocks/metal_break
+[I] 2024/09/08 13:19:32.218+0300 [       assets-loader] loading sounds/steps/glass as steps/glass
+[I] 2024/09/08 13:19:32.221+0300 [       assets-loader] loading sounds/blocks/glass_place as blocks/glass_place
+[I] 2024/09/08 13:19:32.222+0300 [       assets-loader] loading sounds/blocks/glass_break as blocks/glass_break
+[I] 2024/09/08 13:19:32.224+0300 [       assets-loader] loading sounds/steps/carpet as steps/carpet
+[I] 2024/09/08 13:19:32.226+0300 [       assets-loader] loading sounds/blocks/carpet_place as blocks/carpet_place
+[I] 2024/09/08 13:19:32.227+0300 [       assets-loader] loading sounds/blocks/carpet_break as blocks/carpet_break
+[I] 2024/09/08 13:19:32.228+0300 [       assets-loader] loading /tmp/.mount_voxeleuoD3h6/usr/share/VoxelEngine/res/layouts/console.xml as core:console
+[I] 2024/09/08 13:19:32.229+0300 [           scripting] script (layout) /tmp/.mount_voxeleuoD3h6/usr/share/VoxelEngine/res/layouts/console.xml.lua
+[I] 2024/09/08 13:19:32.229+0300 [       assets-loader] loading /tmp/.mount_voxeleuoD3h6/usr/share/VoxelEngine/res/layouts/inventory.xml as core:inventory
+[I] 2024/09/08 13:19:32.229+0300 [           scripting] script (layout) /tmp/.mount_voxeleuoD3h6/usr/share/VoxelEngine/res/layouts/inventory.xml.lua
+[I] 2024/09/08 13:19:32.229+0300 [       assets-loader] loading /tmp/.mount_voxeleuoD3h6/usr/share/VoxelEngine/res/layouts/process.xml as core:process
+[I] 2024/09/08 13:19:32.229+0300 [           scripting] script (layout) /tmp/.mount_voxeleuoD3h6/usr/share/VoxelEngine/res/layouts/process.xml.lua
+[I] 2024/09/08 13:19:32.229+0300 [       assets-loader] loading models/player-body as player-body
+[I] 2024/09/08 13:19:32.229+0300 [       assets-loader] loading models/player-head as player-head
+[I] 2024/09/08 13:19:32.229+0300 [       assets-loader] loading models/drop-block as drop-block
+[I] 2024/09/08 13:19:32.229+0300 [       assets-loader] loading models/block as block
+[I] 2024/09/08 13:19:32.229+0300 [       assets-loader] loading textures/entities/player as entities/player
+[I] 2024/09/08 13:19:32.230+0300 [       assets-loader] loading textures/entities/player as entities/player
+[I] 2024/09/08 13:19:32.268+0300 [       chunks-render] created 12 workers
+[I] 2024/09/08 13:19:32.268+0300 [       scripting-hud] loading script /tmp/.mount_voxeleuoD3h6/usr/share/VoxelEngine/res/content/base/scripts/hud.lua
+[I] 2024/09/08 13:19:43.832+0300 [       level-control] writing world
+[I] 2024/09/08 13:19:44.133+0300 [        level-screen] saving world preview
+[I] 2024/09/08 13:19:44.152+0300 [              locale] locales [fi_FI (Suomi)] [uk_UA (Українська)] [pl_PL (Polski)] [ru_RU (Русский)] [en_US (English)] [de_DE (Deutsch)] [be_BY (Беларуская)] added
+[I] 2024/09/08 13:19:44.152+0300 [              engine] loading assets
+[I] 2024/09/08 13:19:44.153+0300 [       assets-loader] loading textures/blocks as blocks
+[I] 2024/09/08 13:19:44.155+0300 [       assets-loader] loading textures/items as items
+[I] 2024/09/08 13:19:44.155+0300 [       assets-loader] loading fonts/font as normal
+[I] 2024/09/08 13:19:44.158+0300 [       assets-loader] loading shaders/ui as ui
+[I] 2024/09/08 13:19:44.158+0300 [       assets-loader] loading shaders/main as main
+[I] 2024/09/08 13:19:44.158+0300 [       assets-loader] loading shaders/lines as lines
+[I] 2024/09/08 13:19:44.158+0300 [       assets-loader] loading textures/gui/menubg as gui/menubg
+[I] 2024/09/08 13:19:44.158+0300 [       assets-loader] loading textures/gui/delete_icon as gui/delete_icon
+[I] 2024/09/08 13:19:44.159+0300 [       assets-loader] loading textures/gui/no_icon as gui/no_icon
+[I] 2024/09/08 13:19:44.159+0300 [       assets-loader] loading textures/gui/no_world_icon as gui/no_world_icon
+[I] 2024/09/08 13:19:44.159+0300 [       assets-loader] loading textures/gui/warning as gui/warning
+[I] 2024/09/08 13:19:44.159+0300 [       assets-loader] loading textures/gui/error as gui/error
+[I] 2024/09/08 13:19:44.159+0300 [       assets-loader] loading textures/gui/cross as gui/cross
+[I] 2024/09/08 13:19:44.159+0300 [       assets-loader] loading textures/gui/refresh as gui/refresh
+[I] 2024/09/08 13:19:44.160+0300 [           scripting] script (layout) /tmp/.mount_voxeleuoD3h6/usr/share/VoxelEngine/res/layouts/pages/main.xml.lua
+[I] 2024/09/08 13:19:45.205+0300 [              engine] saving settings
+[I] 2024/09/08 13:19:45.205+0300 [              engine] saving bindings
+[I] 2024/09/08 13:19:45.205+0300 [              engine] shutting down
+[I] 2024/09/08 13:19:45.206+0300 [              engine] gui finished
+[I] 2024/09/08 13:19:45.207+0300 [              engine] scripting finished
+[I] 2024/09/08 13:19:45.220+0300 [              engine] engine finished

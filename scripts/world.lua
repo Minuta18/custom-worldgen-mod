@@ -56,7 +56,5 @@ function on_world_tick()
 end
 
 function on_world_save()
-    print(dump(chunks))
-    print(json.tostring(chunks))
     file.write(datafile, json.tostring(chunks))
 end
